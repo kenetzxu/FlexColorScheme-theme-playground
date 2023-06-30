@@ -36,10 +36,10 @@ const ColorScheme flexSchemeLight = ColorScheme(
 
 const ColorScheme flexSchemeDark = ColorScheme(
   brightness: Brightness.dark,
-  primary: Color(0xffe0143f),
-  onPrimary: Color(0xffffe2e8),
-  primaryContainer: Color(0xff920023),
-  onPrimaryContainer: Color(0xffffdad9),
+  primary: Color(0xfff02954),
+  onPrimary: Color(0xffffe5ec),
+  primaryContainer: Color(0xff92002a),
+  onPrimaryContainer: Color(0xffffdadb),
   secondary: Color(0xffb9c8da),
   onSecondary: Color(0xff252728),
   secondaryContainer: Color(0xff3a4857),
@@ -64,6 +64,6 @@ const ColorScheme flexSchemeDark = ColorScheme(
   scrim: Color(0xff000000),
   inverseSurface: Color(0xffe0e2e2),
   onInverseSurface: Color(0xff2e3132),
-  inversePrimary: Color(0xffbf0031),
+  inversePrimary: Color(0xffbe003a),
   surfaceTint: Color(0xff8f8f8f),
 );
