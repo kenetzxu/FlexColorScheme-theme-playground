@@ -91,7 +91,7 @@ darkTheme: FlexThemeData.dark(
     error: Color(0xffcf6679),
   ),
   surfaceMode: FlexSurfaceMode.highScaffoldLowSurface,
-  blendLevel: 3,
+  blendLevel: 6,
   appBarStyle: FlexAppBarStyle.background,
   bottomAppBarElevation: 2.0,
   surfaceTint: const Color(0xff909090),
