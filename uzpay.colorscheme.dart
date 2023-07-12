@@ -18,7 +18,7 @@ const ColorScheme flexSchemeLight = ColorScheme(
   onError: Color(0xffffffff),
   errorContainer: Color(0xffffdad6),
   onErrorContainer: Color(0xff410002),
-  background: Color(0xfff7fafa),
+  background: Color(0xfff6f9f9),
   onBackground: Color(0xff191c1d),
   surface: Color(0xfff8fbfb),
   onSurface: Color(0xff191c1d),
