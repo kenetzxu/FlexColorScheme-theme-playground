@@ -14,7 +14,7 @@ theme: FlexThemeData.light(
     error: Color(0xffb00020),
   ),
   surfaceMode: FlexSurfaceMode.highScaffoldLowSurface,
-  blendLevel: 2,
+  blendLevel: 4,
   appBarStyle: FlexAppBarStyle.background,
   bottomAppBarElevation: 1.0,
   surfaceTint: const Color(0xff4f4f4f),
