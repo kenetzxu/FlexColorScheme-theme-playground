@@ -64,6 +64,7 @@ theme: FlexThemeData.light(
     navigationBarElevation: 1.0,
     navigationRailSelectedLabelSchemeColor: SchemeColor.onPrimaryContainer,
     navigationRailSelectedIconSchemeColor: SchemeColor.onPrimary,
+    navigationRailIndicatorSchemeColor: SchemeColor.primary,
     navigationRailIndicatorOpacity: 1.00,
   ),
   keyColors: const FlexKeyColors(
@@ -140,6 +141,7 @@ darkTheme: FlexThemeData.dark(
     navigationBarElevation: 1.0,
     navigationRailSelectedLabelSchemeColor: SchemeColor.onPrimaryContainer,
     navigationRailSelectedIconSchemeColor: SchemeColor.onPrimary,
+    navigationRailIndicatorSchemeColor: SchemeColor.primary,
     navigationRailIndicatorOpacity: 1.00,
   ),
   keyColors: const FlexKeyColors(
